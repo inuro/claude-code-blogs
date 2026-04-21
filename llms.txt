@@ -5,7 +5,6 @@
 ## Articles
 
 - [Audit Claude Platform activity with the Compliance API](https://claude.com/blog/claude-platform-compliance-api): The Compliance API gives admins programmatic access to audit logs across their Claude Platform organization.
-- [Auto mode for Claude Code](https://claude.com/blog/auto-mode): Auto mode lets Claude Code make permission decisions with built-in safeguards — fewer interruptions than default, less risk than skipping permissions.
 - [Best practices for using Claude Opus 4.7 with Claude Code](https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code): Learn how to use recalibrated effort levels, adaptive thinking, and new defaults to optimize your Claude Code setup with Opus 4.7.
 - [Building AI agents for financial services](https://claude.com/blog/building-ai-agents-in-financial-services): Financial institutions are deploying autonomous AI systems to improve operations while navigating regulatory complexity and risk. Here's how. ‍ In financial services, AI agents are moving beyond pilot programs to deliver concrete business…
 - [Claude and Slack](https://claude.com/blog/claude-and-slack): Access Claude directly into Slack so you can get help in channels and threads, or connect your Slack workspace to Claude for searching conversations and pulling context when you need it.
@@ -19,6 +18,7 @@
 - [Improving frontend design through Skills](https://claude.com/blog/improving-frontend-design-through-skills): Best practices for building richer, more customized frontend design with Claude and Skills.
 - [Introducing routines in Claude Code](https://claude.com/blog/introducing-routines-in-claude-code): Define repeatable routines that work your backlog, review your PRs, and respond to events in the cloud.
 - [Making Claude Cowork ready for enterprise](https://claude.com/blog/cowork-for-enterprise): Claude Cowork is now generally available on all paid plans. Within companies, Claude Cowork has become a key part of how teams operate: handling tasks, drafting project deliverables, and keeping teams up to date.
+- [Meet the winners of our Built with Opus 4.6 Claude Code hackathon](https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon): From a cardiologist to an electronic musician, get to the know the winners of our Built with Opus 4.6 hackathon.
 - [Multi-agent coordination patterns: Five approaches and when to use them](https://claude.com/blog/multi-agent-coordination-patterns): Five multi-agent coordination patterns, their trade-offs, and when to evolve from one to another.
 - [Preparing your security program for AI-accelerated offense](https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense): We share our initial set of recommendations to shore up your defenses based on our own findings and security practices.
 - [Redesigning Claude Code on desktop for parallel agents](https://claude.com/blog/claude-code-desktop-redesign): Today, we're releasing a redesign of the Claude Code desktop app, built to help you run more Claude Code tasks at once.
