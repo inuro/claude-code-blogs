@@ -4,8 +4,8 @@
 
 ## Articles
 
-- [Audit Claude Platform activity with the Compliance API](https://claude.com/blog/claude-platform-compliance-api): The Compliance API gives admins programmatic access to audit logs across their Claude Platform organization.
 - [Best practices for using Claude Opus 4.7 with Claude Code](https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code): Learn how to use recalibrated effort levels, adaptive thinking, and new defaults to optimize your Claude Code setup with Opus 4.7.
+- [Building agents that reach production systems with MCP](https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp): Patterns for building effective MCP integrations: server design, OAuth with CIMD and vaults, context-efficient clients, and skills. Plus where MCP fits alongside direct API calls and CLIs for connecting agents to your systems.
 - [Building AI agents for financial services](https://claude.com/blog/building-ai-agents-in-financial-services): Financial institutions are deploying autonomous AI systems to improve operations while navigating regulatory complexity and risk. Here's how. ‍ In financial services, AI agents are moving beyond pilot programs to deliver concrete business…
 - [Claude and Slack](https://claude.com/blog/claude-and-slack): Access Claude directly into Slack so you can get help in channels and threads, or connect your Slack workspace to Claude for searching conversations and pulling context when you need it.
 - [Claude builds interactive visuals right in your conversation](https://claude.com/blog/claude-builds-visuals): Ask Claude to explain a concept or analyze your data, and it can respond with interactive charts, diagrams, and visualizations — rendered inline as part of the conversation.
