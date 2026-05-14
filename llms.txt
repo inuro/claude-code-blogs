@@ -5,9 +5,9 @@
 ## Articles
 
 - [Agent view in Claude Code](https://claude.com/blog/agent-view-in-claude-code): Today we're introducing agent view in Claude Code: one place to manage all your Claude Code sessions.
+- [Best practices for computer and browser use with Claude](https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude): Practical guidance for developers building computer and browser use integrations with the Claude model family.
 - [Building AI agents for the enterprise](https://claude.com/blog/building-ai-agents-for-the-enterprise): In this guide, we share how leading organizations are using agents to transform their work today, and how Claude Cowork brings these capabilities to every team.
 - [Built-in memory for Claude Managed Agents](https://claude.com/blog/claude-managed-agents-memory): Memory on Claude Managed Agents lets you build agents that learn from every task, user, and session, with no memory infrastructure to maintain.
-- [Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp](https://claude.com/blog/claude-api-skill): Today, CodeRabbit, JetBrains, Resolve AI, and Warp are bundling the claude-api skill, giving developers production-ready Claude API code wherever they build. First introduced in Claude Code in March, the skill is now in more of the tools d…
 - [Claude builds interactive visuals right in your conversation](https://claude.com/blog/claude-builds-visuals): Ask Claude to explain a concept or analyze your data, and it can respond with interactive charts, diagrams, and visualizations — rendered inline as part of the conversation.
 - [Claude for the legal industry](https://claude.com/blog/claude-for-the-legal-industry): We're releasing 20+ new MCP connectors that link Claude to the software that the legal industry runs on and 12 new plugins tailored specific legal work and practice areas.
 - [Claude Managed Agents: get to production 10x faster](https://claude.com/blog/claude-managed-agents): Introducing Claude Managed Agents, a suite of composable APIs for building and deploying cloud-hosted agents at scale.
