@@ -4,6 +4,7 @@
 
 ## Articles
 
+- [A guide to cost visibility and control in Claude | Claude by Anthropic](https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude): How IT admins can see and manage Claude costs, including spend caps, model controls, usage analytics, and API features like prompt caching and batch processing.
 - [Agent Harness Design: 3 Patterns for Harnessing Claude's Intelligence | Claude by Anthropic](https://claude.com/blog/harnessing-claudes-intelligence): Agent harness design is deciding what scaffolding your agent needs—and what it doesn't. Three patterns from Anthropic for building harnesses that improve as Claude does.
 - [Building verification loops in Claude Code with skills | Claude by Anthropic](https://claude.com/blog/building-verification-loops-in-claude-code-with-skills): How Anthropic builds verification loops in Claude Code: turn your manual checks into skills so Claude tests, fixes, and verifies its own work.
 - [CISO's guide to agentic AI | Claude by Anthropic](https://claude.com/blog/ciso-guide-to-agentic-ai): Anthropic's Deputy CISO shares a four-question framework for assessing agentic AI risk, and walks through controls that keep agent deployments bounded and auditable.
@@ -28,4 +29,3 @@
 - [Redesigning Claude Code on desktop for parallel agents | Claude by Anthropic](https://claude.com/blog/claude-code-desktop-redesign): Today, we're releasing a redesign of the Claude Code desktop app, built to help you run more Claude Code tasks at once.
 - [The new rules of context engineering for Claude 5 generation models  | Claude by Anthropic](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models): We removed over 80% of Claude Code's system prompt for more advanced models. How to apply the lessons we learned to your own context engineering in Claude Code and with your own agents.
 - [Think through hard problems in voice mode | Claude by Anthropic](https://claude.com/blog/think-through-hard-problems-in-voice-mode): Starting today, voice mode runs on Anthropic's Claude Opus, Claude Sonnet, and Claude Haiku, reaches the tools you’ve connected, and speaks many more languages.
-- [Working with Claude Fable 5 in Claude Cowork | Claude by Anthropic](https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork): Anthropic's Claude Fable 5 can carry long, complex work on its own. Here's how to get the most out of it in Claude Cowork.
